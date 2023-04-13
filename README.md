@@ -1,4 +1,4 @@
-# Analysis of Housing Rental Martket Data for San Francisco
+# Analysis of Housing Rental Market Data for San Francisco
 This is an  exploratory data analysis (EDA) which deploys data visualization skills, including aggregation, interactive visualizations, and geospatial (that is, location-based) analysis. The ultimate goal is to identify the patterns and relationships in the data  to be used to find properties in the San Francisco market that are viable investment opportunities.
 
 ## Methodology and Approach
@@ -18,7 +18,7 @@ Built professionally styled and formatted data visualizations that incorporate m
 - Jupyter notebook
 
 ## Summary of findings 
-The analyis of the housing rental market data established that viable investment opportunities exists  in San Francisco properties market. During the period of the analyis there was steady growth in the housing units per year and in the  average rental income and sales prices in the neighorhoods of San Francisco.
+The analysis of the housing rental market data established that viable investment opportunities exists in San Francisco properties market. During the period of the analysis there was steady growth in the housing units per year and in the  average rental income and sales prices in the neighorhoods of San Francisco.
 
 ## References
 The following code block was received  outside curriculum content from Course  Instructor:
