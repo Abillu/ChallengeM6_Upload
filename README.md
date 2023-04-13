@@ -1,4 +1,4 @@
-# Housing Rental Martket Data for San Francisco
+# Analysis of Housing Rental Martket Data for San Francisco
 This is an  exploratory data analysis (EDA) which deploys data visualization skills, including aggregation, interactive visualizations, and geospatial (that is, location-based) analysis. The ultimate goal is to identify the patterns and relationships in the data  to be used to find properties in the San Francisco market that are viable investment opportunities.
 
 ## Methodology and Approach
