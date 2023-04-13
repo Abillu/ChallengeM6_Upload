@@ -11,15 +11,15 @@ Build professionally styled and formatted data visualizations that incorporate m
 
 ## Libraries and Technologies Used
 
--Pandas library -  a Python library for data analysis. 
+- Pandas library -  a Python library for data analysis. 
 
 - hvPlot and GeoViews- vusualization libraries. 
 
--Jupyter notebook
+- Jupyter notebook
 
 ## Summary of findings 
 The analyis of the housing rental market data for San Francisco established that viable investment opportunities exists  in San Francisco properties market. During the period of the analyis there was steady growth in the housing units per year and in the  average rental income and sales prices in San Francisco.
 
-## Contributors
+## References
 The following code block was received  outside curriculum content from Course  Instructor:
 ```neighborhood_locations_df = neighborhood_locations_df.set_index("Neighborhood") ```
